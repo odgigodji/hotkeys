@@ -1,2 +1,2 @@
 # hotkeys
-hotkeys from several ide's and browsers
+## hotkeys from several ide's and browsers
