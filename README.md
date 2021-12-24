@@ -1,6 +1,6 @@
 # Hotkeys from several ide's and browsers
 
-## Xcode;
+## Xcode:
 
 ``Control + Command + E`` - Refactor All In Scope
 
