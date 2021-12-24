@@ -12,7 +12,7 @@
 
 ``Shift + Command + F`` - find in all project's file's
 
-### Show and hide inspectors, navigation and debug area:
+#### Show and hide inspectors, navigation and debug area:
 ``Command + 0-9`` - hide and show navigation
 
 ``Command + Option + 0-3`` - inspectors
