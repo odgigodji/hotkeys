@@ -8,6 +8,8 @@
 
 ``Control + 6`` - choose methode
 
+``Command + Option + Square Brackets`` - reorder statesments
+
 ## Chrome:
 
 ``Command + W`` - close current tab
