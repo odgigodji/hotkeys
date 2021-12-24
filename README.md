@@ -11,6 +11,7 @@
 ## Chrome:
 
 ``Command + W`` - close current tab
+``Command + Shift + F`` - hide toolbar(full screen)
 
 ## Source:
 [hotkeys xcode](https://betterprogramming.pub/13-xcode-shortcuts-to-boost-your-productivity-329c90512309)
