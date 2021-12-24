@@ -2,7 +2,7 @@
 
 ## Xcode;
 
-``⌃ + ⌘ + E`` (Control + Command + E) - Refactor All In Scope
+``Control + Command + E`` - Refactor All In Scope
 
 ## Chrome:
 
