@@ -3,7 +3,9 @@
 ## Xcode;
 
 ``Control + Command + E`` - Refactor All In Scope
+
 ``Control + Shift`` - multiselect
+
 ``Control + 6`` - choose methode
 
 ## Chrome:
