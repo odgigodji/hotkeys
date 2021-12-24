@@ -11,6 +11,7 @@
 ## Chrome:
 
 ``Command + W`` - close current tab
+
 ``Command + Shift + F`` - hide toolbar(full screen)
 
 ## Source:
