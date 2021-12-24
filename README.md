@@ -10,6 +10,8 @@
 
 ``Command + Option + Square Brackets`` - reorder statesments
 
+``Shift + Command + F`` - find in all project's file's
+
 ## Chrome:
 
 ``Command + W`` - close current tab
