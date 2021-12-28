@@ -12,6 +12,8 @@
 
 ``Shift + Command + F`` - find in all project's file's
 
+``Control + Command`` - jump to definition
+
 ### Show and hide inspectors, navigation and debug area:
 ``Command + 0-9`` - hide and show navigation
 
