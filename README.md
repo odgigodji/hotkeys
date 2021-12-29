@@ -14,6 +14,8 @@
 
 ``Control + Command`` - jump to definition
 
+``Control`` + Command + T`` - open in new tab
+
 ### Show and hide inspectors, navigation and debug area:
 ``Command + 0-9`` - hide and show navigation
 
