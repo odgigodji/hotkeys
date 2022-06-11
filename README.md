@@ -12,9 +12,9 @@
 
 ``Shift + Command + F`` - find in all project's file's
 
-``Control + Command`` - jump to definition
+``Control`` + ``Command`` - jump to definition
 
-``Control`` + Command + T`` - open in new tab
+``Control`` + ``Command`` + ``T`` - open in new tab
 
 ``Control`` + ``I`` - arrange blocks of code
 
