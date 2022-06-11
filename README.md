@@ -16,6 +16,8 @@
 
 ``Control`` + Command + T`` - open in new tab
 
+``Control`` + ``I`` - arrange blocks of code
+
 ### Show and hide inspectors, navigation and debug area:
 ``Command + 0-9`` - hide and show navigation
 
