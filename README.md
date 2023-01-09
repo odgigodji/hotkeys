@@ -18,6 +18,8 @@
 
 ``Control`` + ``I`` - arrange blocks of code
 
+``Command`` + ``Shift`` + ``A``
+
 ### Show and hide inspectors, navigation and debug area:
 ``Command + 0-9`` - hide and show navigation
 
