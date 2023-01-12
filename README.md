@@ -20,6 +20,8 @@
 
 ``Command`` + ``Shift`` + ``A`` - dark/light mode in simulator(tap on it)
 
+``Command`` + ``Shift`` + ``O`` - search file from project
+
 ### Show and hide inspectors, navigation and debug area:
 ``Command + 0-9`` - hide and show navigation
 
